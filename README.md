@@ -91,7 +91,7 @@ Proposed solutions included mobile accessibility, encryption, and integrated aca
 
 ## 📄 Project Presentation  
 
-[View SIH Presentation](sih pdf.pdf)
+[View SIH Presentation](https://github.com/parul120406/Smart-India-Hackathon/blob/main/sih%20pdf.pdf)
 
 ---
 
